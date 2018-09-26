@@ -1,0 +1,2 @@
+C:\Users\Oliver\Documents\Visual Studio 2008\Projects\LifeMKII\LifeMKII\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oliver Rimington\Google Drive\Usb Backup\lowo\XNA\LifeMKII\LifeMKII\Content\obj\x86\Debug\ResolveAssemblyReference.cache
